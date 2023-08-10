@@ -137,3 +137,7 @@ GitHub.sublime-settings
 !.vscode/extensions.json
 .history
 __pycache__/
+
+
+.idea
+/.idea/weather_bot.iml
